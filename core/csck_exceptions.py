@@ -1,0 +1,3 @@
+
+class CsckException(Exception):
+    pass
